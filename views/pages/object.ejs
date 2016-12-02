@@ -1,0 +1,16 @@
+<% include ../header %>
+    <div class="jumbotron">
+        <% object.forEach(function(item){ %>
+            <li><%= item %></li>
+        <% }); %>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <h1 class="text-center">Sidebar</h1>
+
+        </div>
+        <div class="col-md-8 col-md-offset-1">
+            <h3></h3>
+        </div>
+    </div>
+<% include ../footer %>
