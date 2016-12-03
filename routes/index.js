@@ -7,7 +7,7 @@ router.get('/', function(req, res, next) {
 });
 
 router.get('/object', function(req, res, next){
-    var obj = ['Uno', 'Dos', 'Tres'];
+    var obj = ['My', 'Very', 'First', 'Node', 'App'];
     res.render('pages/object.ejs', {title: 'A numa sicierto', object : obj});
 });
 

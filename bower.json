@@ -1,0 +1,17 @@
+{
+  "name": "express",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Alejandro Hernandez <alejandrohdz047@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/AlexHdz047/express",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

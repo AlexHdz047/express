@@ -1,0 +1,3 @@
+Install nodemon
+run npm install
+run bower install
